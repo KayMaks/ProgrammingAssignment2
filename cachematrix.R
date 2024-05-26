@@ -19,7 +19,7 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## The cacheSolve function is used to retrieve the object that was cached, if
+## The cacheSolve function is used to retrieve the object that was cached if
 ## the inverse was calculated with the previous function
 
 cacheSolve <- function(x, ...) {
