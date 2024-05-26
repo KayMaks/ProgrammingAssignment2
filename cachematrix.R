@@ -1,5 +1,5 @@
-## A pair of function that can create an object which can cache its inverse and
-## retrieve it
+## A pair of functions that can create an object which can cache its inverse and
+## then retrieve it
 
 ## The makeCacheMatrix function can create an object that can cache its inverse
 
